@@ -9,10 +9,12 @@ Use the command to install the blueprint
 ```bash
 npm install
 ```
-
 ### Env vars
 
-Config your DB vars.
+```
+cp .env.example .env
+```
+### Config vars
 
 ```js
 DB_USER=
