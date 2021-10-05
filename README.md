@@ -17,11 +17,20 @@ cp .env.example .env
 ### Config vars
 
 ```js
+DB_CONNECTION=
 DB_USER=
 DB_PASSWORD=
 DB_DATABASE=
 ```
+### Database
 
+Run the following command to run startup BD.
+
+```js
+MySQL: npm install mysql
+PostgreSQL: npm install pg
+SQLite: npm install sqlite3
+```
 ### Migrations
 
 Run the following command to run startup migrations.
