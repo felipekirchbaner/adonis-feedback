@@ -43,6 +43,12 @@ adonis seed
 adonis serve --dev
 ```
 
+### Login Credentials
+```bash
+email: teste@viasoft.com.br
+senha: admin123
+```
+
 ## API endpoints (See file "insomnia.json")
 
 | Action        | Method          | Path  |
