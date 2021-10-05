@@ -10,6 +10,15 @@ Use the command to install the blueprint
 npm install
 ```
 
+### Env vars
+
+Config your DB vars.
+
+```js
+DB_USER=
+DB_PASSWORD=
+DB_DATABASE=
+```
 
 ### Migrations
 
