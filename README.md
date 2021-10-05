@@ -46,6 +46,10 @@ Run the following command to run startup seeds.
 ```js
 adonis seed
 ```
+### Generate Key
+```bash
+adonis key:generate
+```
 
 ### Start the serve in development mode
 ```bash
